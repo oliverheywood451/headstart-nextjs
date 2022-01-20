@@ -1,6 +1,9 @@
 ## Overview
 This project showcases a simple buyer application built with [Next.js](https://nextjs.org/) and [Sitecore OrderCloud](https://ordercloud.io/)
 
+My important paragraph.
+{: .alert .alert-info}
+
 ## Demo
 [Link to demo](https://headstart-nextjs.vercel.app/)
 
